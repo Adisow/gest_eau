@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane id="Pane" fx:id="contentarea" prefHeight="651.0" prefWidth="715.0" style="-fx-background-color: aqua;" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="117.0" layoutY="105.0" prefHeight="172.0" prefWidth="523.0" text="Bonjour teste" />
+   </children>
+</Pane>
